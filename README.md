@@ -13,6 +13,6 @@ Ideas para **descanzos rápidos**
 - Meditación, yoga y ejercicios de respiración.
 - Conectar con amigos y familiares.
 
-[Lista de verificación para la gestión del autocuidado(https://courses.edx.org/assets/courseware/v1/603ccb1e83417743828b5214ec365e89/asset-v1:edX+edx201ES+1T2020+type@asset+block/Lista_de_verificacio_n_para_la_gestio_n_del_autocuidado.pdf)
+[Lista de verificación para la gestión del autocuidado])(https://courses.edx.org/assets/courseware/v1/603ccb1e83417743828b5214ec365e89/asset-v1:edX+edx201ES+1T2020+type@asset+block/Lista_de_verificacio_n_para_la_gestio_n_del_autocuidado.pdf)
 
 
