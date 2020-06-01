@@ -10,7 +10,7 @@ Este post permitirá aprovechar al máximo la experiencia del aprendizaje en lí
 El aprendizaje y la memoria son dos caras de la misma moneda. El aprendizaje se refiere al proceso de adquirir nuevas habilidades o conocimientos. La memoria es la expresión de lo que has aprendido.
 Cuando olvidas algo, debes volver a aprenderlo, codificando la habilidad o el conocimiento nuevamente en la memoria.
 
-### El sueño y la memoria
+#### El sueño y la memoria
 
 Probablemente ya practiques una habilidad importante para aprender todos los días: ¡Dormir!
 
